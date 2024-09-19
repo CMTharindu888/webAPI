@@ -9,7 +9,7 @@ namespace WebApplication1.Models
         public DateTime reqdate { get; set; }
         public DateTime tokento { get; set; } 
          
-        public string isuamt { get; set; }
+        public string isuamt { get; set; }  
 
         public string vehicletype { get; set; }
 
